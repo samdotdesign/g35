@@ -1,0 +1,1 @@
+This is a Tidbyt applet to show the train times at the Clinton-Washington Ave G station in Clinton Hill, Brooklyn. I wasn't a fan of the design of the existing train time applets, so I made this one! If there's interest in expanding this format to more stations, let me know. 
